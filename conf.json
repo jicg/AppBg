@@ -1,0 +1,7 @@
+{
+  "db": "root:123456@/app_bg?charset=utf8&parseTime=True&loc=Local",
+  "logfile": "log.log",
+  "logpath": "data/log",
+  "port": "8080",
+  "mode": "release"
+}
